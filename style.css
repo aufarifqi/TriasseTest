@@ -1,0 +1,394 @@
+/* info atas */
+
+#infoatas {
+    background-color: rgba(158, 170, 199, 0.349);
+    width: 100%;
+    height: 50px;
+}
+
+
+/* TopBanner */
+
+.menupemeriksaan {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 150px;
+    width: 80%;
+    border-radius: 20px;
+    height: 300px;
+    margin-top: -70px;
+}
+
+#bgpilihjenis {
+    background-color: rgb(227, 234, 250);
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+#optionposisi2 {
+    margin-top: 30px;
+}
+
+#optionposisi {
+    margin-left: 130px;
+}
+
+.posisilogotri {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.topbanner img {
+    width: 100%;
+    height: auto;
+}
+
+#logobar {
+    height: 100px;
+}
+
+#tombolcari {
+    width: 10%;
+    float: right;
+    color: white;
+    background-color: orange;
+    margin-right: 240px;
+}
+
+
+/* NAVBAR */
+
+#tmbolposisi {
+    margin-left: 20px;
+    width: 100px;
+}
+
+#navbarNav {
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+
+/* ImgDoctor Size */
+
+#imgdoctor {
+    background-color: rgb(227, 234, 250);
+}
+
+#imgdoctor img {
+    width: 80%;
+    /* margin-left: 120px; */
+}
+
+
+/* Mengapa Harus Triasse */
+
+.isikonten {
+    background-color: rgb(227, 234, 250);
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.shapekotak {
+    margin-top: 40px;
+    width: 80%;
+    height: 520px;
+    border: solid gray 2px;
+    background-color: grey;
+    border-radius: 15px;
+    margin-left: 200px;
+}
+
+.shape1 {
+    margin-top: 40px;
+    width: 50%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: grey;
+    border: solid grey;
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+
+.shape2 {
+    margin-top: 40px;
+    width: 50%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: grey;
+    border: solid grey;
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+
+.shape3 {
+    margin-top: 40px;
+    width: 50%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: grey;
+    border: solid grey;
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+
+.shape4 {
+    margin-top: 40px;
+    width: 50%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: grey;
+    border: solid grey;
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+
+
+/* caption shape */
+
+.caption1 {
+    margin-top: 30px;
+    text-align: left;
+    margin-left: -40px;
+}
+
+.caption2 {
+    margin-top: 22px;
+    text-align: left;
+    margin-left: -40px;
+}
+
+.caption3 {
+    margin-top: 22px;
+    text-align: left;
+    margin-left: -40px;
+}
+
+.caption4 {
+    margin-top: 15px;
+    text-align: left;
+    margin-left: -40px;
+}
+
+
+/* cardbox */
+
+#posisijudul {
+    margin-top: 50px;
+}
+
+#posisijudul h3 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#posisijudul p {
+    text-align: center;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card-body {
+    /* position: fixed; */
+    width: 80%;
+    height: 150px;
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+#shapegambar1 {
+    margin-top: 50px;
+    /* margin-left: 200px; */
+}
+
+#shapegambar2 {
+    /* margin-left: -180px; */
+    margin-top: 50px;
+}
+
+#posisishape {
+    width: 1%;
+}
+
+#posisishapes {
+    margin-left: 150px;
+}
+
+
+/* Mitra */
+
+#warnamitra {
+    background-color: rgb(227, 234, 250);
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+#mitrajudul {
+    margin-top: 40px;
+}
+
+#mitrajudul h3 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#mitrajudul p {
+    text-align: center;
+}
+
+#mitraimg {
+    margin-top: 50px;
+}
+
+.mitra1 {
+    margin-left: 200px;
+}
+
+.mitra2 {
+    margin-left: 50px;
+}
+
+.mitra3 {
+    margin-left: 50px;
+}
+
+.mitra4 {
+    margin-left: 50px;
+}
+
+.mitra5 {
+    margin-left: 50px;
+}
+
+
+/* Article1 */
+
+#judularticle {
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#posisiartikel {
+    margin-left: 5px;
+}
+
+.article1 {
+    width: 90%;
+}
+
+.article2 {
+    width: 90%;
+}
+
+.article3 {
+    width: 90%;
+}
+
+.article4 {
+    width: 90%;
+}
+
+
+/* Media Coverage */
+
+#judulmedia {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+#posisimedia {
+    align-items: center;
+    justify-content: center;
+}
+
+#posisimedia2 {
+    margin-top: 40px;
+    justify-content: center;
+}
+
+
+/* Deskripsi */
+
+.line {
+    border: solid gray 1px;
+    width: 80%;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    background-color: gray;
+}
+
+#desc1 {
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.juduldesc {
+    font-weight: bold;
+    margin-bottom: -3px;
+}
+
+
+/* NewsLetter */
+
+#newsletter {
+    border: none;
+    width: 100%;
+    height: 120px;
+    background-color: rgb(10, 154, 221);
+    margin-top: 70px;
+    padding-top: 40px;
+}
+
+#judulnews {
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 220px;
+}
+
+
+/* InfoBanner */
+
+#infobanner {
+    background-color: rgb(23, 44, 114);
+    padding-left: 200px;
+}
+
+.sizecaption {
+    font-size: small;
+}
+
+.posisilogo {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#posisilogo {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#posisiicon {
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+
+/* Footer */
+
+#footerbg {
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(7, 12, 83);
+    height: 70px;
+}
